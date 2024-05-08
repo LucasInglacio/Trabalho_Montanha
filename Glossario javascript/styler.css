@@ -13,6 +13,7 @@ body {
 .container {
     text-align: center;
     height: auto;
+    padding-left: 20px;
 }
 
 .dropdown {
